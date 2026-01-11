@@ -1,9 +1,4 @@
 # matheus2405
-<!-- Contador de visitas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheus2405&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <!-- Animação de texto -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Matheus+Maione;Desenvolvedor+Java+em+Forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot;Back-end+em+evolu%C3%A7%C3%A3o+constante" />
@@ -74,7 +69,7 @@
   <a href="https://github.com/matheus2405">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINK">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BRbl41kAzQYmrFM719fL5hw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
