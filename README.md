@@ -33,7 +33,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+
 ---
+
+## 🔥 Dias consecutivos programando
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=matheus2405&theme=tokyonight&cache_seconds=1800" />
+</p>
+
 
 ## 🌐 Onde me encontrar
 
