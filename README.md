@@ -35,34 +35,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus2405&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus2405&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus2405&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheus2405&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 
 <p align="center">
