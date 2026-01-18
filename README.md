@@ -36,13 +36,6 @@
 
 ---
 
-## 🔥 Dias consecutivos programando
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=matheus2405&theme=tokyonight&cache_Day =4000000" />
-</p>
-
-
 ## 🌐 Onde me encontrar
 
 <p align="center">
